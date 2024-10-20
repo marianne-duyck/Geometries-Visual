@@ -1,4 +1,4 @@
-# VisualGeometries
+# Geometries-Visual
 
 Code used for the odd-one-out experiments described in [this](http://www.normalesup.org/~mamalric/publications/Dillon_Geometric_categories.pdf) article:
 Dillon, M. R., Duyck, M., Dehaene, S., Amalric, M., & Izard, V. (2019). Geometric categories in cognition. Journal of Experimental Psychology: Human Perception and Performance, 45(9), 1236.
