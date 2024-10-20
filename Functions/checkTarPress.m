@@ -1,0 +1,1 @@
+function [pressed] = checkTarPress(targets)key = 1000;while ismember(key,targets)~=1	FlushEvents('keyDown');	[keyIsDown, t, keyCode] = KbCheck;    key = find(keyCode);endpressed = [];if length(key) == 1	pressed = find(targets==key);    time    = t;endif isempty(pressed)	pressed = 0;    time    = [];end	end
